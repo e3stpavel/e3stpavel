@@ -1,7 +1,10 @@
-# Hewy there!
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center">
 
-<div>
-  <img src="https://giphy.com/embed/ule4vhcY1xEKQ" />
+  <h1>Hewy</h1>
+  <h3>software dev, music producer and just a bruh</h3>
+
+  ![bruh](catcoding.gif)
+
+  <h5>PS. That's actually me:)</h5>
+
 </div>
-
-### Feel free to contact me:)
