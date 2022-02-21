@@ -31,4 +31,9 @@
 
   ![NUTZZ](relax.gif)
 
+  <!--<h5>Who tf is Tovio? @toivoparnpuu</h5>-->
+  <!--<h5>Molodei</h5>-->
+  <!--<h5>Grisha is evil</h5>-->
+  <h5>* PS playing nut simulator</h5>
+
 </div>
