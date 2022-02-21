@@ -1,3 +1,9 @@
+<style>
+  h1 {
+    color: red;
+  }
+</style>
+
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center">
 
   <h1>Hewy</h1>
