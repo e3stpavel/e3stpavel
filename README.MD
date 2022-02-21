@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hewy</h1>
+  # __Hewy__
   <h3>software dev, music producer and just a bruh</h3>
 
   ![bruh](catcoding.gif)
