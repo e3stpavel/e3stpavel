@@ -26,7 +26,7 @@
   ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
   ![Vite](https://img.shields.io/badge/-ViteJS-000?&logo=Vite)
   
-  # __Help me to create powerful thing__
+  # __Help me to create powerful things__
   <a href="https://github.com/sponsors/e3stpavel" title="Sponsor me by buying me nut or RTX"><img src="sponsor.svg?sanitize=true" width="auto" height="28" aria-hidden="true"></a>
 
   ![NUTZZ](relax.gif)
@@ -34,6 +34,6 @@
   <!--<h5>Who tf is Tovio? @toivoparnpuu</h5>-->
   <!--<h5>Molodei</h5>-->
   <!--<h5>Grisha is evil</h5>-->
-  <h5>* PS playing nut simulator</h5>
+  <h5>* PS bought 164 nut afterlives</h5>
 
 </div>
